@@ -1,0 +1,12 @@
+.header {
+}
+
+.header-title {
+  margin: 0;
+  padding: 20px 0;
+
+  font-size: 30px;
+  font-weight: 500;
+  line-height: 40px;
+  color: rgb(37, 36, 36);
+}
