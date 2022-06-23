@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/algo-viz/static/css/main.08212b47.css",
+    "main.js": "/algo-viz/static/js/main.ada48090.js",
+    "static/js/787.5726593b.chunk.js": "/algo-viz/static/js/787.5726593b.chunk.js",
+    "static/media/OpenSans-Medium.ttf": "/algo-viz/static/media/OpenSans-Medium.65529e6c75fe516f596a.ttf",
+    "static/media/OpenSans-Regular.ttf": "/algo-viz/static/media/OpenSans-Regular.57cd57a648021fa1c396.ttf",
+    "static/media/play.svg": "/algo-viz/static/media/play.0d0a4a788c812f085152.svg",
+    "index.html": "/algo-viz/index.html",
+    "main.08212b47.css.map": "/algo-viz/static/css/main.08212b47.css.map",
+    "main.ada48090.js.map": "/algo-viz/static/js/main.ada48090.js.map",
+    "787.5726593b.chunk.js.map": "/algo-viz/static/js/787.5726593b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08212b47.css",
+    "static/js/main.ada48090.js"
+  ]
+}
